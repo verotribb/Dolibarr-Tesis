@@ -1,0 +1,374 @@
+============ CHANGELOG =============
+
+Version 10.0.2-0      2019-09-12
+* Updated Dolibarr to 10.0.2
+* Updated Apache to 2.4.41
+* Updated lego to 3.0.2
+* Updated OpenSSL to 1.1.1c
+* Updated PHP to 7.3.9
+
+Version 10.0.1-0      2019-08-04
+* Updated Dolibarr to 10.0.1
+* Updated lego to 2.7.2
+* Updated MySQL to 5.7.27
+
+Version 10.0.0-0      2019-07-19
+* Updated Dolibarr to 10.0.0
+* Updated MySQL to 5.7.26
+
+Version 9.0.4-5      2019-07-17
+* Maintenance release
+* Updated PHP to 7.3.7
+* Updated SQLite to 3.29.0.
+
+Version 9.0.4-3      2019-07-03
+* Maintenance release
+
+Version 9.0.4-2      2019-07-02
+* Maintenance release
+
+Version 9.0.4-1      2019-07-01
+* Maintenance release
+
+Version 9.0.4-0      2019-06-30
+* Updated Dolibarr to 9.0.4
+
+Version 9.0.3-2      2019-06-28
+* Maintenance release
+
+Version 9.0.3-1      2019-06-18
+* Fixed issue on Windows 10 build 1903
+* Add Bitnami HTTPS Configuration Tool (bncert)
+* Updated lego to 2.6.0
+* Updated MySQL to 8.0.16
+* Updated OpenSSL to 1.0.2s
+* Updated PHP to 7.3.6
+* Updated phpMyAdmin to 4.9.0.1
+
+Version 9.0.3-0      2019-05-09
+* Updated Dolibarr to 9.0.3
+* Updated lego to 2.5.0
+* Updated MySQL to 5.7.26
+* Updated PHP to 7.1.29
+* Updated SQLite to 3.28.0
+
+Version 9.0.2-1      2019-04-09
+* Fix Apache Carpe Diem vulnerability CVE-2019-0211
+* Updated Apache to 2.4.39
+
+Version 9.0.2-0      2019-04-08
+* Updated Dolibarr to 9.0.2
+* Updated lego to 2.4.0
+* Updated PHP to 7.1.27
+
+Version 9.0.1-0      2019-03-06
+* Updated Dolibarr to 9.0.1
+* Updated OpenSSL to 1.0.2r
+* Updated SQLite to 3.27.2
+
+Version 9.0.0-0      2019-02-18
+* Updated Apache to 2.4.38
+* Updated Dolibarr to 9.0.0
+* Updated lego to 2.2.0
+* Updated MySQL to 5.7.25
+* Updated PHP to 7.1.26
+* Updated phpMyAdmin to 4.8.5
+* Updated SQLite to 3.27.1
+
+Version 8.0.4-0      2018-12-23
+* Updated Dolibarr to 8.0.4
+* Updated PHP to 7.1.25
+* Updated phpMyAdmin to 4.8.4
+
+Version 8.0.3-1      2018-12-02
+* Updated lego to 1.2.1
+* Updated OpenSSL to 1.0.2q
+* Updated PHP to 7.1.24
+
+Version 8.0.3-0      2018-11-05
+* Updated Dolibarr to 8.0.3
+
+Version 8.0.2-1      2018-10-30
+* Added support for OS X VM
+* Fixed SpectreRSB Vulnerability (CVE-2018-15572)
+* Updated Apache to 2.4.37
+* Updated lego to 1.1.0
+* Updated MySQL to 5.7.24
+* Updated PHP to 7.1.23
+
+Version 8.0.2-0      2018-09-19
+* Updated Dolibarr to 8.0.2
+* Updated PHP to 7.0.32
+
+Version 8.0.1-0      2018-09-02
+* Added Lego tool for configuring Let's encrypt with Apache
+* Updated Dolibarr to 8.0.1
+* Updated lego to 1.0.1
+* Updated OpenSSL to 1.0.2p
+* Updated phpMyAdmin to 4.8.3
+
+Version 8.0.0-0      2018-08-14
+* Updated Apache to 2.4.34
+* Updated Dolibarr to 8.0.0
+* Updated MySQL to 5.7.23
+* Updated PHP to 7.0.31
+
+Version 7.0.3-0      2018-06-23
+* Updated PageSpeed to 1.13.35.2
+* Updated Dolibarr to 7.0.3
+* Updated phpMyAdmin to 4.8.2
+
+Version 7.0.2-0      2018-05-14
+* Updated Apache to 2.4.33
+* Updated Dolibarr to 7.0.2
+* Updated MySQL to 5.7.22
+* Updated OpenSSL to 1.0.2o
+* Updated PHP to 7.0.30
+* Updated phpMyAdmin to 4.8.0.1
+* Updated SQLite to 3.18.0
+
+Version 7.0.1-0      2018-03-23
+* Updated Dolibarr to 7.0.1
+* Updated PHP to 7.0.28
+* Updated phpMyAdmin to 4.7.9
+
+Version 7.0.0-0      2018-02-19
+* Generate the SSL certificates at installation time
+(boot time in the cloud images and virtual machines)
+* Updated Dolibarr to 7.0.0
+
+Version 6.0.5-0      2018-01-26
+* Updated Dolibarr to 6.0.5
+* Updated MySQL to 5.7.21
+* Updated OpenSSL to 1.0.2n
+* Updated PHP to 7.0.27
+* Updated phpMyAdmin to 4.7.7
+
+Version 6.0.4-0      2017-12-11
+* Updated Dolibarr to 6.0.4
+* Updated OpenSSL to 1.0.2m
+* Updated PHP to 7.0.26
+* Updated phpMyAdmin to 4.7.6
+
+Version 6.0.3-0      2017-11-06
+* Add bnsupport tool
+* Updated Apache to 2.4.29
+* Updated Dolibarr to 6.0.3
+* Updated MySQL to 5.7.20
+* Updated OpenSSL to 1.0.2l
+* Updated PHP to 7.0.24
+
+Version 6.0.2-0      2017-10-09
+* Updated Dolibarr to 6.0.2
+
+Version 6.0.1-0      2017-10-02
+* Updated Dolibarr to 6.0.1
+* Updated MySQL to 5.7.19
+* Updated PHP to 7.0.23
+* Updated phpMyAdmin to 4.7.4
+
+Version 5.0.5-0      2017-08-28
+* Updated Dolibarr to 5.0.5
+
+Version 5.0.4-1      2017-08-24
+* Updated PHP to 7.0.22
+* Updated phpMyAdmin to 4.7.3
+
+Version 5.0.4-0      2017-08-14
+* Updated phpMyAdmin to 4.7.2
+* Updated Apache to 2.4.27
+* Updated PHP to 5.6.31
+* Updated Dolibarr to 5.0.4
+* Updated MySQL to 5.6.37
+
+Version 5.0.3-0      2017-06-19
+* Update Dolibarr to 5.0.3
+* Updated phpMyAdmin to 4.7.1
+* Fix sudo vulnerability (CVE-2017-1000367)
+* Updated OpenSSL to 1.0.2l
+* Updated MySQL to 5.6.36
+
+Version 5.0.1-0      2017-04-25
+* Update Dolibarr to 5.0.1
+* Updated phpMyAdmin to 4.7.0
+* Updated OpenSSL to 1.0.2k (Security fixes for CVE-2017-3731, CVE-2017-3731, CVE-2017-3731, and CVE-2016-7055)
+
+Version 4.0.4-0      2017-01-27
+* Update Dolibarr to 4.0.4
+* Updated PHP to 5.6.30
+
+Version 4.0.3-1      2017-01-20
+* Fixed issues in OS X
+
+Version 4.0.3-0      2016-12-27
+* Updated Dolibarr to 4.0.3
+* Updated Apache to 2.4.25
+* Updated MySQL to 5.6.35
+* Updated PHP to 5.6.29
+* Updated phpMyAdmin to 4.6.5.2
+
+Version 4.0.2-0      2016-11-01
+* Updated Dolibarr to 4.0.2
+* Updated PHP to 5.6.27
+* Updated MySQL to 5.6.34
+
+Version 4.0.1-0      2016-10-03
+* Updated Dolibarr to 4.0.1
+
+Version 3.9.3-1      2016-09-28
+* Updated OpenSSL to 1.0.2j (Security fix CVE-2016-6304)
+* Updated MySQL to 5.6.33
+* Updated PHP to 5.6.26
+* Updated phpMyAdmin to 4.6.4
+* Updated PHP to 5.6.25
+* Patched Off-Path TCP Linux Kernel Vulnerability in Cloud Images and Virtual Machines (Security release CVE-2016-5696)
+
+Version 3.9.3-0      2016-08-03
+* Updated Dolibarr to 3.9.3
+* Updated MySQL to 5.6.32
+
+Version 3.9.1-2      2016-07-25
+* Updated PHP to 5.6.24 (Security release: HTTP_PROXY is improperly trusted by some PHP libraries and applications)
+* Blocked Proxy request header in the web server (Security issue CVE-2016-5385, CVE-2016-5387, CVE-2016-1000110)
+* Updated Apache to 2.4.23
+* Updated phpMyAdmin to 4.6.3
+* Updated MySQL to 5.6.31
+
+Version 3.9.1-1      2016-05-10
+* Updated phpMyAdmin to 4.6.1
+* Updated PHP to 5.6.21 (Security release CVE-2016-3074)
+* Updated OpenSSL to 1.0.2h (Security release CVE-2016-2108 CVE-2016-2107)
+* Updated PageSpeed to 1.9.32.14
+
+Version 3.9.1-0      2016-04-25
+* Updated Dolibarr to 3.9.1
+* Updated PHP to 5.6.20
+* Updated MySQL to 5.6.30
+* Updated Apache to 2.4.20
+* Updated phpMyAdmin to 4.6.0
+
+Version 3.9.0-0      2016-04-06
+* Updated Dolibarr to 3.9.0
+* Updated phpMyAdmin to 4.5.5.1
+* Updated PHP to 5.6.19
+* Updated OpenSSL to 1.0.2g (Security release CVE-2016-0800)
+
+Version 3.8.3-0      2016-02-19
+* Updated Dolibarr to 3.8.3
+* Updated MySQL to 5.6.29
+* Updated PHP to 5.6.18
+* Updated phpMyAdmin to 4.5.4.1
+* Updated OpenSSL to 1.0.2e
+* Updated libpng to 1.5.26 (Security release CVE-2015-8540)
+* Updated Apache to 2.4.18
+
+Version 3.8.2-1      2015-11-17
+* Updated libpng to 1.5.24 (security issue)
+
+Version 3.8.2-0      2015-11-10
+* Updated Dolibarr to 3.8.2
+* Updated MySQL to 5.6.27
+
+Version 3.8.1-0      2015-10-21
+* Updated Dolibarr to 3.8.1
+* Updated Apache to 2.4.17
+
+Version 3.8.0-0      2015-10-02
+* Updated PHP to 5.5.29
+* Updated Dolibarr to 3.8.0
+* Updated phpMyAdmin to 4.4.13.1
+* Updated Apache to 2.4.16
+* Updated OpenSSL to 1.0.1p
+* Updated MySQL to 5.6.25
+* Dropping RC4 from Apache SSLCipherSuite directive
+
+Version 3.7.0-0      2015-04-22
+* Updated Dolibarr to 3.7.0
+* Updated phpMyAdmin to 4.4.3
+* Updated PHP to 5.4.40
+* Updated OpenSSL to 1.0.1m
+* Updated Apache to 2.4.12
+* Updated MySQL to 5.5.42 for Linux and Windows
+* Updated PageSpeed to 1.9.32.3
+
+Version 3.6.2-0      2014-12-31
+* Updated Dolibarr to 3.6.2
+* Updated phpMyAdmin to 4.3.3
+* Updated PHP to 5.4.36
+
+Version 3.6.1-0      2014-10-22
+* (Version only available for OS X)
+* Fix MySQL startup issue for OS X Yosemite
+* Updated PHP to 5.4.34
+* Updated OpenSSL to 1.0.1j
+
+Version 3.6.1-0      2014-10-13
+* Updated Dolibarr to 3.6.1
+* Added OCI8 module. It requires InstantClient 11.2.
+* Updated phpMyAdmin to 4.2.9.1
+* Updated MySQL to 5.5.40
+* Updated PHP to 5.4.33
+* Added banner with credentials info (VMs and Cloud Images)
+* Updated OpenSSL to 1.0.1i
+
+Version 3.6.0-0      2014-08-20
+* Updated Apache to 2.4.10
+* Updated PHP to 5.4.31
+
+Version 3.5.4-0      2014-07-17
+* Updated MySQL to 5.5.38
+* Updated XDebug to 2.2.5
+* Updated XCache to 3.1.0
+* Updated mongo-php-driver to 1.5.4
+* Updated php-couchbase to 1.1.5
+* Updated Libxslt to 1.1.28
+* Updated Libxml2 to 2.9.1
+* Updated PHP to 5.4.30
+* Updated phpMyAdmin to 4.2.5
+* Updated OpenSSL to 1.0.1h
+* Updated PHP to 5.4.29
+
+Version 3.5.3-0      2014-06-02
+* Updated Dolibarr to 3.5.3
+* Updated phpMyAdmin to 4.2.2
+* Added libv8 and v8js PHP extension for Linux and OS X
+
+Version 3.5.2-0      2014-04-15
+* Updated Dolibarr to 3.5.2
+
+Version 3.5.0-1      2014-04-08
+* Updated OpenSSL to 1.0.1g
+* Updated phpMyAdmin to 4.1.12
+* Improved Apache configuration for PHP-FPM mode
+* Updated Apache to 2.4.9
+* Updated PHP to 5.4.26
+* Updated MySQL to 5.5.36
+
+Version 3.5.0-0      2014-02-03
+* Updated Dolibarr to 3.5.0
+* Updated phpMyAdmin to 4.1.4
+* Updated PHP to 5.4.24
+* Updated OpenSSL to 1.0.1f in Linux and OSX
+
+Version 3.4.2-0      2014-01-07
+* Updated Dolibarr to 3.4.2
+* Updated phpMyAdmin to 4.1.0
+* Updated PHP to 5.4.23
+
+Version 3.4.1-0      2013-10-15
+* Updated Dolibarr to 3.4.1
+
+Version 3.4.0-1      2013-10-08
+* Added PHP-FPM support for cloud images and VMs
+* Updated PHP to 5.4.20
+
+Version 3.4.0-0      2013-08-28
+* Updated Dolibarr to 3.4.0
+
+Version 3.3.3-1      2013-08-27
+* Updated PHP to 5.4.19
+* Improved mod_pagespeed settings for better performance (Unix)
+
+Version 3.3.3-0      2013-07-26
+* Initial release, bundles Apache 2.4.4, PHP 5.4.17, MySQL 5.5.32 and
+Dolibarr 3.3.3
