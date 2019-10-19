@@ -1659,3 +1659,10 @@
 ::1 - - [19/Oct/2019:11:25:02 -0300] "GET /dolibarr/admin/tools/dolibarr_export.php?mainmenu=home&leftmenu=admintools HTTP/1.1" 200 8900
 ::1 - - [19/Oct/2019:11:28:02 -0300] "GET /dolibarr/index.php?mainmenu=home&leftmenu=home HTTP/1.1" 200 13710
 ::1 - - [19/Oct/2019:11:29:02 -0300] "-" 408 -
+::1 - - [19/Oct/2019:13:30:44 -0300] "GET /dolibarr/index.php?mainmenu=home&leftmenu=home HTTP/1.1" 200 13710
+::1 - - [19/Oct/2019:13:30:47 -0300] "GET /dolibarr/admin/tools/index.php?mainmenu=home&leftmenu=admintools HTTP/1.1" 200 6121
+::1 - - [19/Oct/2019:13:30:50 -0300] "GET /dolibarr/admin/tools/dolibarr_export.php?mainmenu=home&leftmenu=admintools HTTP/1.1" 200 8903
+::1 - - [19/Oct/2019:13:31:05 -0300] "POST /dolibarr/admin/tools/export.php HTTP/1.1" 302 -
+::1 - - [19/Oct/2019:13:31:17 -0300] "GET /dolibarr/admin/tools/dolibarr_export.php?page_y=222.22222900390625 HTTP/1.1" 200 9631
+::1 - - [19/Oct/2019:13:31:17 -0300] "GET /dolibarr/theme/md/img/info.png HTTP/1.1" 200 399
+::1 - - [19/Oct/2019:13:31:24 -0300] "GET /dolibarr/document.php?modulepart=systemtools&attachment=1&file=backup%2Fmysqldump_bitnami_dolibarr_10.0.2_201910190930.sql.gz HTTP/1.1" 200 99040
