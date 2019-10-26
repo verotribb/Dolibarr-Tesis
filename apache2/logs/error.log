@@ -134,3 +134,61 @@
 [Sat Oct 19 11:10:50.881626 2019] [ssl:warn] [pid 4736:tid 628] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
 [Sat Oct 19 11:10:50.975375 2019] [ssl:warn] [pid 4736:tid 628] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
 [Sat Oct 19 11:10:51.037878 2019] [mpm_winnt:notice] [pid 4736:tid 628] AH00354: Child: Starting 64 worker threads.
+[Sat Oct 19 17:33:04.848005 2019] [ssl:warn] [pid 3500:tid 672] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 19 17:33:05.010387 2019] [core:warn] [pid 3500:tid 672] AH00098: pid file C:/Bitnami/dolibarr-10.0.2-0/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Oct 19 17:33:05.018455 2019] [ssl:warn] [pid 3500:tid 672] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 19 17:33:05.406464 2019] [mpm_winnt:notice] [pid 3500:tid 672] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.9 configured -- resuming normal operations
+[Sat Oct 19 17:33:05.406464 2019] [mpm_winnt:notice] [pid 3500:tid 672] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Sat Oct 19 17:33:05.406464 2019] [core:notice] [pid 3500:tid 672] AH00094: Command line: 'C:\\Bitnami\\DOLIBA~1.2-0\\apache2\\bin\\httpd.exe -d C:/Bitnami/dolibarr-10.0.2-0/apache2 -f C:\\Bitnami\\DOLIBA~1.2-0\\apache2\\conf\\httpd.conf'
+[Sat Oct 19 17:33:05.414528 2019] [mpm_winnt:notice] [pid 3500:tid 672] AH00418: Parent: Created child process 4644
+[Sat Oct 19 17:33:07.334627 2019] [ssl:warn] [pid 4644:tid 608] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 19 17:33:07.446350 2019] [ssl:warn] [pid 4644:tid 608] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 19 17:33:07.487022 2019] [mpm_winnt:notice] [pid 4644:tid 608] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 20 09:15:09.808413 2019] [ssl:warn] [pid 3588:tid 636] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 20 09:15:09.920249 2019] [core:warn] [pid 3588:tid 636] AH00098: pid file C:/Bitnami/dolibarr-10.0.2-0/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Oct 20 09:15:09.930432 2019] [ssl:warn] [pid 3588:tid 636] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 20 09:15:10.469182 2019] [mpm_winnt:notice] [pid 3588:tid 636] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.9 configured -- resuming normal operations
+[Sun Oct 20 09:15:10.469182 2019] [mpm_winnt:notice] [pid 3588:tid 636] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Sun Oct 20 09:15:10.469182 2019] [core:notice] [pid 3588:tid 636] AH00094: Command line: 'C:\\Bitnami\\DOLIBA~1.2-0\\apache2\\bin\\httpd.exe -d C:/Bitnami/dolibarr-10.0.2-0/apache2 -f C:\\Bitnami\\DOLIBA~1.2-0\\apache2\\conf\\httpd.conf'
+[Sun Oct 20 09:15:10.499660 2019] [mpm_winnt:notice] [pid 3588:tid 636] AH00418: Parent: Created child process 4660
+[Sun Oct 20 09:15:12.650228 2019] [ssl:warn] [pid 4660:tid 600] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 20 09:15:12.754155 2019] [ssl:warn] [pid 4660:tid 600] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 20 09:15:12.794777 2019] [mpm_winnt:notice] [pid 4660:tid 600] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 22 17:35:49.427424 2019] [ssl:warn] [pid 3596:tid 676] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 22 17:35:49.782664 2019] [core:warn] [pid 3596:tid 676] AH00098: pid file C:/Bitnami/dolibarr-10.0.2-0/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Oct 22 17:35:49.782664 2019] [ssl:warn] [pid 3596:tid 676] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 22 17:35:50.188544 2019] [mpm_winnt:notice] [pid 3596:tid 676] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.9 configured -- resuming normal operations
+[Tue Oct 22 17:35:50.188544 2019] [mpm_winnt:notice] [pid 3596:tid 676] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Tue Oct 22 17:35:50.188544 2019] [core:notice] [pid 3596:tid 676] AH00094: Command line: 'C:\\Bitnami\\DOLIBA~1.2-0\\apache2\\bin\\httpd.exe -d C:/Bitnami/dolibarr-10.0.2-0/apache2 -f C:\\Bitnami\\DOLIBA~1.2-0\\apache2\\conf\\httpd.conf'
+[Tue Oct 22 17:35:50.198694 2019] [mpm_winnt:notice] [pid 3596:tid 676] AH00418: Parent: Created child process 4616
+[Tue Oct 22 17:35:52.705700 2019] [ssl:warn] [pid 4616:tid 516] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 22 17:35:52.797142 2019] [ssl:warn] [pid 4616:tid 516] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 22 17:35:52.837823 2019] [mpm_winnt:notice] [pid 4616:tid 516] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 24 09:23:38.873614 2019] [ssl:warn] [pid 3508:tid 676] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 24 09:23:39.025909 2019] [core:warn] [pid 3508:tid 676] AH00098: pid file C:/Bitnami/dolibarr-10.0.2-0/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Oct 24 09:23:39.025909 2019] [ssl:warn] [pid 3508:tid 676] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 24 09:23:39.330601 2019] [mpm_winnt:notice] [pid 3508:tid 676] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.9 configured -- resuming normal operations
+[Thu Oct 24 09:23:39.330601 2019] [mpm_winnt:notice] [pid 3508:tid 676] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Thu Oct 24 09:23:39.330601 2019] [core:notice] [pid 3508:tid 676] AH00094: Command line: 'C:\\Bitnami\\DOLIBA~1.2-0\\apache2\\bin\\httpd.exe -d C:/Bitnami/dolibarr-10.0.2-0/apache2 -f C:\\Bitnami\\DOLIBA~1.2-0\\apache2\\conf\\httpd.conf'
+[Thu Oct 24 09:23:39.340753 2019] [mpm_winnt:notice] [pid 3508:tid 676] AH00418: Parent: Created child process 4636
+[Thu Oct 24 09:23:41.928810 2019] [ssl:warn] [pid 4636:tid 596] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 24 09:23:42.030397 2019] [ssl:warn] [pid 4636:tid 596] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 24 09:23:42.071199 2019] [mpm_winnt:notice] [pid 4636:tid 596] AH00354: Child: Starting 64 worker threads.
+[Fri Oct 25 11:35:37.523854 2019] [ssl:warn] [pid 3612:tid 700] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 25 11:35:37.777584 2019] [core:warn] [pid 3612:tid 700] AH00098: pid file C:/Bitnami/dolibarr-10.0.2-0/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Oct 25 11:35:37.787744 2019] [ssl:warn] [pid 3612:tid 700] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 25 11:35:38.194254 2019] [mpm_winnt:notice] [pid 3612:tid 700] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.9 configured -- resuming normal operations
+[Fri Oct 25 11:35:38.194254 2019] [mpm_winnt:notice] [pid 3612:tid 700] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Fri Oct 25 11:35:38.194254 2019] [core:notice] [pid 3612:tid 700] AH00094: Command line: 'C:\\Bitnami\\DOLIBA~1.2-0\\apache2\\bin\\httpd.exe -d C:/Bitnami/dolibarr-10.0.2-0/apache2 -f C:\\Bitnami\\DOLIBA~1.2-0\\apache2\\conf\\httpd.conf'
+[Fri Oct 25 11:35:38.202310 2019] [mpm_winnt:notice] [pid 3612:tid 700] AH00418: Parent: Created child process 4604
+[Fri Oct 25 11:35:40.628951 2019] [ssl:warn] [pid 4604:tid 600] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 25 11:35:40.738326 2019] [ssl:warn] [pid 4604:tid 600] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 25 11:35:40.800824 2019] [mpm_winnt:notice] [pid 4604:tid 600] AH00354: Child: Starting 64 worker threads.
+[Sat Oct 26 10:08:33.517822 2019] [ssl:warn] [pid 3548:tid 664] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 26 10:08:33.629304 2019] [core:warn] [pid 3548:tid 664] AH00098: pid file C:/Bitnami/dolibarr-10.0.2-0/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Oct 26 10:08:33.639429 2019] [ssl:warn] [pid 3548:tid 664] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 26 10:08:34.117123 2019] [mpm_winnt:notice] [pid 3548:tid 664] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.9 configured -- resuming normal operations
+[Sat Oct 26 10:08:34.117123 2019] [mpm_winnt:notice] [pid 3548:tid 664] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Sat Oct 26 10:08:34.117123 2019] [core:notice] [pid 3548:tid 664] AH00094: Command line: 'C:\\Bitnami\\DOLIBA~1.2-0\\apache2\\bin\\httpd.exe -d C:/Bitnami/dolibarr-10.0.2-0/apache2 -f C:\\Bitnami\\DOLIBA~1.2-0\\apache2\\conf\\httpd.conf'
+[Sat Oct 26 10:08:34.127248 2019] [mpm_winnt:notice] [pid 3548:tid 664] AH00418: Parent: Created child process 4656
+[Sat Oct 26 10:08:36.616025 2019] [ssl:warn] [pid 4656:tid 692] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name

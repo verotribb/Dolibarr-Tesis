@@ -541,3 +541,189 @@ Version: '5.7.23'  socket: ''  port: 3306  MySQL Community Server (GPL)
 2019-10-19T14:10:49.053024Z 0 [Note] Event Scheduler: Loaded 0 events
 2019-10-19T14:10:49.054747Z 0 [Note] C:\Bitnami\DOLIBA~1.2-0\mysql\bin\mysqld.exe: ready for connections.
 Version: '5.7.23'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2019-10-19T17:08:16.487883Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 45793ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-10-19T20:33:00.568431Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2019-10-19T20:33:00.572174Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2019-10-19T20:33:00.646756Z 0 [Note] C:\Bitnami\DOLIBA~1.2-0\mysql\bin\mysqld.exe (mysqld 5.7.23) starting as process 3612 ...
+2019-10-19T20:33:00.765096Z 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-10-19T20:33:00.766850Z 0 [Note] InnoDB: Uses event mutexes
+2019-10-19T20:33:00.768040Z 0 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2019-10-19T20:33:00.769610Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2019-10-19T20:33:00.782268Z 0 [Note] InnoDB: Number of pools: 1
+2019-10-19T20:33:00.810358Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2019-10-19T20:33:00.886616Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-10-19T20:33:00.907413Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-10-19T20:33:01.100004Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2019-10-19T20:33:01.108405Z 0 [Note] InnoDB: Log scan progressed past the checkpoint lsn 20565224
+2019-10-19T20:33:01.110102Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 20565233
+2019-10-19T20:33:01.165180Z 0 [Note] InnoDB: Database was not shutdown normally!
+2019-10-19T20:33:01.166648Z 0 [Note] InnoDB: Starting crash recovery.
+2019-10-19T20:33:04.907066Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-10-19T20:33:04.908756Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-10-19T20:33:04.911008Z 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-10-19T20:33:05.121698Z 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-10-19T20:33:05.127025Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2019-10-19T20:33:05.129324Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2019-10-19T20:33:05.133010Z 0 [Note] InnoDB: Waiting for purge to start
+2019-10-19T20:33:05.258558Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 4225ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-10-19T20:33:05.260539Z 0 [Note] InnoDB: 5.7.23 started; log sequence number 20565233
+2019-10-19T20:33:05.276644Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2019-10-19T20:33:05.340700Z 0 [Note] InnoDB: Loading buffer pool(s) from C:\Bitnami\dolibarr-10.0.2-0\mysql\data\ib_buffer_pool
+2019-10-19T20:33:05.342783Z 0 [Warning] Failed to set up SSL because of the following SSL library error: SSL context is not usable without certificate and private key
+2019-10-19T20:33:05.416685Z 0 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+2019-10-19T20:33:05.420003Z 0 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+2019-10-19T20:33:05.422014Z 0 [Note] Server socket created on IP: '127.0.0.1'.
+2019-10-19T20:33:05.465411Z 0 [Note] InnoDB: Buffer pool(s) load completed at 191019 17:33:05
+2019-10-19T20:33:06.016727Z 0 [Note] Event Scheduler: Loaded 0 events
+2019-10-19T20:33:06.018278Z 0 [Note] C:\Bitnami\DOLIBA~1.2-0\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.7.23'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2019-10-20T12:15:05.758261Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2019-10-20T12:15:05.778051Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2019-10-20T12:15:05.788561Z 0 [Note] C:\Bitnami\DOLIBA~1.2-0\mysql\bin\mysqld.exe (mysqld 5.7.23) starting as process 3628 ...
+2019-10-20T12:15:06.022950Z 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-10-20T12:15:06.024699Z 0 [Note] InnoDB: Uses event mutexes
+2019-10-20T12:15:06.025805Z 0 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2019-10-20T12:15:06.029933Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2019-10-20T12:15:06.091773Z 0 [Note] InnoDB: Number of pools: 1
+2019-10-20T12:15:06.099619Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2019-10-20T12:15:06.108151Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-10-20T12:15:06.188060Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-10-20T12:15:06.308868Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2019-10-20T12:15:06.318135Z 0 [Note] InnoDB: Log scan progressed past the checkpoint lsn 20565252
+2019-10-20T12:15:06.343290Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 20565261
+2019-10-20T12:15:06.348979Z 0 [Note] InnoDB: Database was not shutdown normally!
+2019-10-20T12:15:06.351191Z 0 [Note] InnoDB: Starting crash recovery.
+2019-10-20T12:15:09.971739Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-10-20T12:15:09.973443Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-10-20T12:15:09.975707Z 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-10-20T12:15:10.056997Z 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-10-20T12:15:10.066070Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2019-10-20T12:15:10.069689Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2019-10-20T12:15:10.085758Z 0 [Note] InnoDB: Waiting for purge to start
+2019-10-20T12:15:10.236784Z 0 [Note] InnoDB: 5.7.23 started; log sequence number 20565261
+2019-10-20T12:15:10.248866Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2019-10-20T12:15:10.327072Z 0 [Note] InnoDB: Loading buffer pool(s) from C:\Bitnami\dolibarr-10.0.2-0\mysql\data\ib_buffer_pool
+2019-10-20T12:15:10.443689Z 0 [Note] InnoDB: Buffer pool(s) load completed at 191020  9:15:10
+2019-10-20T12:15:10.455108Z 0 [Warning] Failed to set up SSL because of the following SSL library error: SSL context is not usable without certificate and private key
+2019-10-20T12:15:10.458254Z 0 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+2019-10-20T12:15:10.461683Z 0 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+2019-10-20T12:15:10.463760Z 0 [Note] Server socket created on IP: '127.0.0.1'.
+2019-10-20T12:15:10.894124Z 0 [Note] Event Scheduler: Loaded 0 events
+2019-10-20T12:15:10.895797Z 0 [Note] C:\Bitnami\DOLIBA~1.2-0\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.7.23'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2019-10-22T20:35:45.933413Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2019-10-22T20:35:45.937859Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2019-10-22T20:35:45.941621Z 0 [Note] C:\Bitnami\DOLIBA~1.2-0\mysql\bin\mysqld.exe (mysqld 5.7.23) starting as process 3628 ...
+2019-10-22T20:35:46.088892Z 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-10-22T20:35:46.090910Z 0 [Note] InnoDB: Uses event mutexes
+2019-10-22T20:35:46.092066Z 0 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2019-10-22T20:35:46.093871Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2019-10-22T20:35:46.104637Z 0 [Note] InnoDB: Number of pools: 1
+2019-10-22T20:35:46.204076Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2019-10-22T20:35:46.212194Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-10-22T20:35:46.311136Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-10-22T20:35:46.470305Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2019-10-22T20:35:46.478825Z 0 [Note] InnoDB: Log scan progressed past the checkpoint lsn 20565280
+2019-10-22T20:35:46.543267Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 20565289
+2019-10-22T20:35:46.545649Z 0 [Note] InnoDB: Database was not shutdown normally!
+2019-10-22T20:35:46.547122Z 0 [Note] InnoDB: Starting crash recovery.
+2019-10-22T20:35:49.958124Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-10-22T20:35:49.960563Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-10-22T20:35:49.963591Z 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-10-22T20:35:50.026779Z 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-10-22T20:35:50.032959Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2019-10-22T20:35:50.037044Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2019-10-22T20:35:50.039276Z 0 [Note] InnoDB: Waiting for purge to start
+2019-10-22T20:35:50.123016Z 0 [Note] InnoDB: 5.7.23 started; log sequence number 20565289
+2019-10-22T20:35:50.131938Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2019-10-22T20:35:50.136740Z 0 [Note] InnoDB: Loading buffer pool(s) from C:\Bitnami\dolibarr-10.0.2-0\mysql\data\ib_buffer_pool
+2019-10-22T20:35:50.362411Z 0 [Note] InnoDB: Buffer pool(s) load completed at 191022 17:35:50
+2019-10-22T20:35:50.402209Z 0 [Warning] Failed to set up SSL because of the following SSL library error: SSL context is not usable without certificate and private key
+2019-10-22T20:35:50.406297Z 0 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+2019-10-22T20:35:50.410555Z 0 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+2019-10-22T20:35:50.412983Z 0 [Note] Server socket created on IP: '127.0.0.1'.
+2019-10-22T20:35:51.103669Z 0 [Note] Event Scheduler: Loaded 0 events
+2019-10-22T20:35:51.105282Z 0 [Note] C:\Bitnami\DOLIBA~1.2-0\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.7.23'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2019-10-23T02:24:36.421526Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 10798685ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-10-23T02:49:29.978314Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 1484446ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-10-23T06:07:45.572730Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 10798955ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-10-23T11:41:12.574437Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 19995350ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-10-23T16:06:57.096876Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 10798177ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-10-23T21:47:32.343951Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 20424512ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-10-24T12:23:35.572451Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2019-10-24T12:23:35.576143Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2019-10-24T12:23:35.645440Z 0 [Note] C:\Bitnami\DOLIBA~1.2-0\mysql\bin\mysqld.exe (mysqld 5.7.23) starting as process 3540 ...
+2019-10-24T12:23:35.774709Z 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-10-24T12:23:35.776553Z 0 [Note] InnoDB: Uses event mutexes
+2019-10-24T12:23:35.777691Z 0 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2019-10-24T12:23:35.780283Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2019-10-24T12:23:35.795697Z 0 [Note] InnoDB: Number of pools: 1
+2019-10-24T12:23:35.934493Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2019-10-24T12:23:35.948010Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-10-24T12:23:36.027081Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-10-24T12:23:36.186117Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2019-10-24T12:23:36.195186Z 0 [Note] InnoDB: Log scan progressed past the checkpoint lsn 20565308
+2019-10-24T12:23:36.265054Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 20565317
+2019-10-24T12:23:36.267305Z 0 [Note] InnoDB: Database was not shutdown normally!
+2019-10-24T12:23:36.268572Z 0 [Note] InnoDB: Starting crash recovery.
+2019-10-24T12:23:39.577879Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-10-24T12:23:39.579534Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-10-24T12:23:39.585124Z 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-10-24T12:23:39.779676Z 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-10-24T12:23:39.784877Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2019-10-24T12:23:39.787336Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2019-10-24T12:23:39.789460Z 0 [Note] InnoDB: Waiting for purge to start
+2019-10-24T12:23:39.865207Z 0 [Note] InnoDB: 5.7.23 started; log sequence number 20565317
+2019-10-24T12:23:39.889320Z 0 [Note] InnoDB: Loading buffer pool(s) from C:\Bitnami\dolibarr-10.0.2-0\mysql\data\ib_buffer_pool
+2019-10-24T12:23:39.902829Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2019-10-24T12:23:39.954864Z 0 [Warning] Failed to set up SSL because of the following SSL library error: SSL context is not usable without certificate and private key
+2019-10-24T12:23:40.009197Z 0 [Note] InnoDB: Buffer pool(s) load completed at 191024  9:23:40
+2019-10-24T12:23:40.027520Z 0 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+2019-10-24T12:23:40.033367Z 0 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+2019-10-24T12:23:40.043176Z 0 [Note] Server socket created on IP: '127.0.0.1'.
+2019-10-24T12:23:40.508775Z 0 [Note] Event Scheduler: Loaded 0 events
+2019-10-24T12:23:40.510417Z 0 [Note] C:\Bitnami\DOLIBA~1.2-0\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.7.23'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2019-10-24T16:26:02.664493Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 186492ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-10-24T16:35:53.575941Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 413504ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-10-24T19:42:34.465127Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 3462119ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-10-24T20:26:56.040776Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 22233ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-10-24T20:31:03.541879Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 8146ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-10-25T00:46:01.306887Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 10799292ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-10-25T13:04:39.835740Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 44308180ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-10-25T14:35:33.551683Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2019-10-25T14:35:33.555513Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2019-10-25T14:35:33.558484Z 0 [Note] C:\Bitnami\DOLIBA~1.2-0\mysql\bin\mysqld.exe (mysqld 5.7.23) starting as process 3636 ...
+2019-10-25T14:35:33.758973Z 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-10-25T14:35:33.761690Z 0 [Note] InnoDB: Uses event mutexes
+2019-10-25T14:35:33.762819Z 0 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2019-10-25T14:35:33.766420Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2019-10-25T14:35:33.781195Z 0 [Note] InnoDB: Number of pools: 1
+2019-10-25T14:35:33.791381Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2019-10-25T14:35:33.841741Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-10-25T14:35:33.914789Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-10-25T14:35:34.049537Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2019-10-25T14:35:34.058250Z 0 [Note] InnoDB: Log scan progressed past the checkpoint lsn 20685842
+2019-10-25T14:35:34.060009Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 20685851
+2019-10-25T14:35:34.113918Z 0 [Note] InnoDB: Database was not shutdown normally!
+2019-10-25T14:35:34.115347Z 0 [Note] InnoDB: Starting crash recovery.
+2019-10-25T14:35:38.105860Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-10-25T14:35:38.107812Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-10-25T14:35:38.110179Z 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-10-25T14:35:38.640219Z 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-10-25T14:35:38.646388Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2019-10-25T14:35:38.697081Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2019-10-25T14:35:38.699353Z 0 [Note] InnoDB: Waiting for purge to start
+2019-10-25T14:35:38.814948Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 4853ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-10-25T14:35:38.818319Z 0 [Note] InnoDB: 5.7.23 started; log sequence number 20685851
+2019-10-25T14:35:38.828048Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2019-10-25T14:35:38.933657Z 0 [Note] InnoDB: Loading buffer pool(s) from C:\Bitnami\dolibarr-10.0.2-0\mysql\data\ib_buffer_pool
+2019-10-25T14:35:39.125719Z 0 [Note] InnoDB: Buffer pool(s) load completed at 191025 11:35:39
+2019-10-25T14:35:39.164138Z 0 [Warning] Failed to set up SSL because of the following SSL library error: SSL context is not usable without certificate and private key
+2019-10-25T14:35:39.169279Z 0 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+2019-10-25T14:35:39.173736Z 0 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+2019-10-25T14:35:39.176033Z 0 [Note] Server socket created on IP: '127.0.0.1'.
+2019-10-25T14:35:39.636350Z 0 [Note] Event Scheduler: Loaded 0 events
+2019-10-25T14:35:39.638023Z 0 [Note] C:\Bitnami\DOLIBA~1.2-0\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.7.23'  socket: ''  port: 3306  MySQL Community Server (GPL)
